@@ -1,0 +1,23 @@
+uthor: Clara <macole.sabat@gmail.com>
+Date:   Thu Mar 15 11:29:03 2018 +0200
+
+    alias.txt
+
+commit 24f52a52bff27d3a261a7861d1235aa0e8815fb3
+Author: Macole Sabat <macole.sabat@gmail.com>
+Date:   Thu Mar 15 11:15:40 2018 +0200
+
+    last column
+
+commit 4c8d791ac20afa70f3b6b4f5f3187d6a6de52a8a
+Author: Macole Sabat <macole.sabat@gmail.com>
+Date:   Thu Mar 15 11:12:47 2018 +0200
+
+    first column
+
+commit 6296bc6f200c116cd3f5a1dd4e8af6fb521e34c6
+Author: Macole Sabat <macole.sabat@gmail.com>
+Date:   Thu Mar 15 11:07:59 2018 +0200
+
+    initialize
+
