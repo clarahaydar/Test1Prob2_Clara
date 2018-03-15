@@ -1,0 +1,4 @@
+lias sb="source ~/.bashrc"
+alias gits="git status -s"
+alias cdc="cd ~/Documents"
+
